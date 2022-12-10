@@ -22,7 +22,7 @@
 
 ## 📌 VVolt Martket Features
 
-- 🟢 `한솔 BE` - DB구축, 카카오API 로그인(POST), 주문목록(GET), 제품 리스트 (GET), 제품 detailed (GET)
+### - 🟢 `한솔 BE` - DB구축, 카카오API 로그인(POST), 주문목록(GET), 제품 리스트 (GET), 제품 detailed (GET)
 - 🟢 `상욱 BE` - DB구축, 결제 정보 (POST), 토스페이 API, 후기 (GET/POST/PATCH/DELETE), 찜 (GET/POST/DELETE), 팔로워 & 팔로잉 (GET/POST/DELETE)
 - 🟢 `철진 BE` - DB구축, 상점 정보 (GET/POST/PUT), AWS S3 이미지 등록 (POST/PUT), 찜 (GET/POST/DELETE), 팔로워 & 팔로잉 (GET/POST/DELETE)
 
@@ -39,7 +39,7 @@
 ## 🛠 VVolt Martket Engineering Stack
 
 - 💻 BE:
-  - `JavaScript`, `Node.js`, `AWS`, `MySql`
+  - `JavaScript`, `Node.js`, `Express`, `MySql`
 - 💻 FE:
   - `JavaScript`, `React`, `styled-component`
 
